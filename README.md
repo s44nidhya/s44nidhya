@@ -1,13 +1,4 @@
-Hi, I'm Saanidhya
-
-My interests lie in Neural Networks and Finance, and I happen to find Machine Language very fascinating.
-
-I'm currently learning Rust, and trying to dip my toes in Machine Learning.
-
-Feel free to reach out at saanidhyaaryasingh@gmail.com.
-
-Fun fact- I'm crazy obsessed with cats, race cars and classic literature. The order is yet to be decided.
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
 
 
 <!---
