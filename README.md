@@ -2,7 +2,7 @@
 
 - I’m currently working on building an AI-powered F1 race strategist that simulates and optimizes pit stop decisions using machine learning and reinforcement learning.
 - In addition to this project, I’m learning AWS and actively exploring HFT.
-- Feel free to reach out at @saanidhyaaryasingh@gmail.com.
+- Feel free to reach out at saanidhyaaryasingh@gmail.com.
 - There are no fun facts here just crashouts.
 
 <div>
