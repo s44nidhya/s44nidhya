@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Saanidhya</h1>
 
-- I’m currently learning **machine learning, AWS**  
-- Ask me about **python, data structures and algorithms**  
-- How to reach me **saanidhyaaryasingh@gmail.com**
+- I’m currently working on building an AI-powered F1 race strategist that simulates and optimizes pit stop decisions using machine learning and reinforcement learning.
+- In addition to this project, I’m learning AWS and actively exploring HFT.
+- Feel free to reach out at @saanidhyaaryasingh@gmail.com.
+- There are no fun facts here just crashouts.
 
 <div>
   <a href="https://github.com/s44nidhya" target="_blank">
